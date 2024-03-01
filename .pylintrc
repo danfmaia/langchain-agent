@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=
+    missing-module-docstring,
+    import-error,
+    wrong-import-position,
+    ungrouped-imports
