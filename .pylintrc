@@ -1,7 +1,10 @@
 [MESSAGES CONTROL]
 disable=
+    missing-class-docstring,
     missing-module-docstring,
+    missing-function-docstring,
     import-error,
     wrong-import-position,
     ungrouped-imports,
-    line-to-long
+    line-too-long,
+    unsupported-binary-operation

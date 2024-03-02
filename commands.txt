@@ -1,0 +1,4 @@
+
+conda activate faiss_env
+
+python -m uvicorn main:app --reload
